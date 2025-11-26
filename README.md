@@ -44,6 +44,8 @@ Suitable for FPGA beginners, digital logic learners, and RTL design practice.
 
 ## ▶️ Simulation Instructions (Icarus Verilog)
 
+[!Waveform](https://github.com/Shivaaaydv/4bit-alu/blob/main/4%20Bit%20ALU%20Design.png)
+
 ### **Compile:**
 ```bash
 iverilog -g2005-sv -o alu.out design/alu_4bit.v tb/tb_alu_4bit.sv
@@ -53,13 +55,6 @@ gtkwave alu_4bit.vcd
 
 ---
 
-If you want:
-
-✅ a **PNG image** instead of SVG  
-✅ GitHub badges (Build passing, MIT License, Stars)  
-✅ A professional cover image banner for the top of your repo  
-
-Just tell me — I can make it.
 
 
 
