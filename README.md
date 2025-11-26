@@ -44,7 +44,7 @@ Suitable for FPGA beginners, digital logic learners, and RTL design practice.
 
 ## ▶️ Simulation Instructions (Icarus Verilog)
 
-[!Waveform](https://github.com/Shivaaaydv/4bit-alu/blob/main/4%20Bit%20ALU%20Design.png)
+![Waveform](https://github.com/Shivaaaydv/4bit-alu/blob/main/4%20Bit%20ALU%20Design.png)
 
 ### **Compile:**
 ```bash
