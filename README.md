@@ -16,7 +16,7 @@ Suitable for FPGA beginners, digital logic learners, and RTL design practice.
 ## 📘 ALU Block Diagram
 
 <p align="center">
-  <img src="./docs/alu_diagram.svg" width="600px">
+  <img src="https://github.com/Shivaaaydv/4bit-alu/blob/main/alu_diagram.svg" width="600px">
 </p>
 
 ---
